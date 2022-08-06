@@ -3,9 +3,9 @@
 ## About
 
 This Discord bot allows users to create polls for others to vote. The strings are written in French and refer to a fictitious world, but you can easily modify them. The options include the:
-- Question.
-- Choices (optional, yes/no, or 1 through 10).
+- Choices (optional, 2 through 10 included).
 - Duration (optional, in hours).
+- Question.
 - Status (optional, official, or not).
 
 ## Tools
